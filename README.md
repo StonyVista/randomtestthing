@@ -1,4 +1,4 @@
-About
+Copy of old MineOS
 -----------------------------------------------------------
 
 MineOS is half the operating system and half the graphical environment for OpenOS, which comes in OpenComputers mod by default. Originally it was developed in Russian, but it supports several languages. MineOS has following features:
